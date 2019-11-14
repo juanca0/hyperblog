@@ -1,9 +1,9 @@
-Esta es la historia de juan camilo  
+<Esta es la historia de juan camilo  
 
 Juan Camilo tiene 26 años y nacio en colombia
 le gusta la pasta 
 
-Hoy hablaremos de su historia.
+Hoy hablaremos de su vida..
 
 En camara parece alto pero la verdad no es tan alto 
-hoy es el CEO de Platzi.
+hoy es el CEO de Platzi.>
